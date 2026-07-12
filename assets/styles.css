@@ -1,0 +1,36 @@
+/* Background */
+.main {
+    background-color: #f4f6f9;
+}
+
+/* Title styling */
+h1, h2, h3 {
+    color: #1f2937;
+    font-weight: 600;
+}
+
+/* Metric card style */
+div[data-testid="stMetric"] {
+    background-color: white;
+    padding: 18px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+/* Buttons */
+.stButton>button {
+    border-radius: 8px;
+    height: 45px;
+    font-weight: 600;
+}
+
+/* Info / Success / Warning boxes rounded */
+.stAlert {
+    border-radius: 10px;
+}
+
+/* Expander */
+.streamlit-expanderHeader {
+    font-size: 18px;
+    font-weight: 600;
+}

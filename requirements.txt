@@ -1,0 +1,11 @@
+streamlit==1.38.0
+pandas==2.2.3
+plotly==5.24.1
+xgboost==2.1.1
+scikit-learn==1.5.2
+joblib==1.4.2
+shap==0.48.0
+prophet==1.1.5
+neo4j==5.25.1
+gtts==2.5.3
+streamlit-option-menu==0.3.9
